@@ -46,6 +46,8 @@ console.log(exampleNode.choices);
 console.log(exampleNode.text);
 console.log(exampleNode.image);
 
+
+// create all objects for the story path (really inefficient i wish i could use classes)
 const foyerNode = {
     image: "./images/foyer.jpg",
     text: "Welcome to the Foyer of Luigi's Mansion. Enter the hallway?",

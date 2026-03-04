@@ -1,0 +1,19 @@
+* {
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /* I set the height of the image in the JS using .styles, and all of the images are the same width */
+}
+
+h1 {
+    padding: 25px;
+}
+
+h3 {
+    padding: 3px;
+}
+
+img {
+    border-radius: 5px;
+}
